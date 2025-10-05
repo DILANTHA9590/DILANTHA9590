@@ -2,17 +2,17 @@
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilantha9590&label=Profile%20views&color=0e75b6&style=flat" alt="dilantha9590" /> </p>
 
-- 🔭 I’m currently working on [Restaurant-food-order-system](https://github.com/DILANTHA9590/Restaurant-food-order-system)
-
-- 🌱 I’m currently learning **nest js**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-pi-pearl-60.vercel.app/](https://my-portfolio-pi-pearl-60.vercel.app/)
-
-- 📫 How to reach me **dilanthanayanajith@gmail.com**
-
+- 🔭 I’m currently working on [**Restaurant-Food-Order-System**](https://github.com/DILANTHA9590/Restaurant-food-order-system)  
+- 🌱 I’m currently learning **NestJS** & **Microservice Architecture**  
+- 💼 All of my projects are available at → [**my-portfolio-pi-pearl-60.vercel.app**](https://my-portfolio-pi-pearl-60.vercel.app/)  
+- 📫 How to reach me → **dilanthanayanajith@gmail.com**
 <div align="center">
+
+  
   <h3>🤝 Connect With Me</h3>
 
   <!-- 💼 LinkedIn -->
@@ -75,11 +75,7 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> 
     </a> 
-  </p>
-
-  <!-- 🔹 Row 2 -->
-  <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -91,6 +87,10 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
     </a> 
+  </p>
+
+  <!-- 🔹 Row 2 -->
+  <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
     </a> 
