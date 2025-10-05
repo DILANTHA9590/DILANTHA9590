@@ -17,35 +17,22 @@
 <div align="center">
   <h3>🤝 Connect With Me</h3>
 
-  <!-- 💻 Portfolio -->
-  <a href="https://your-portfolio.example" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-digital-nomad-flaticons-lineal-color-flat-icons.png" 
-         alt="portfolio" width="50" height="50"/>
-  </a>
-
-  <!-- 📧 Gmail -->
-  <a href="mailto:your.email@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="gmail" width="50" height="50"/>
-  </a>
-
   <!-- 💼 LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-handle/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="linkedin" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/dilantha-nayanajith-9a1545297/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- 🐦 Twitter/X -->
-  <a href="https://x.com/yourhandle" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" 
-         alt="twitter" width="50" height="50"/>
+  <!-- ✉️ Gmail -->
+  <a href="mailto:dilanthanayanajith@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <!-- 🧑‍💻 GitHub -->
-  <a href="https://github.com/ajinamoto" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
-         alt="github" width="50" height="50"/>
+  <!-- 💻 Portfolio -->
+  <a href="https://my-portfolio-pi-pearl-60.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+</div>
+
 
   <br/>
   <img src="https://github.com/rudrabarad/Gifs/blob/main/Handshake.gif?raw=true" width="200" alt="handshake animation"/>
