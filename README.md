@@ -14,10 +14,43 @@
 
 - 📫 How to reach me **dilanthanayanajith@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dilanthanayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilanthanayanajith" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3>🤝 Connect With Me</h3>
+
+  <!-- 💻 Portfolio -->
+  <a href="https://your-portfolio.example" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-digital-nomad-flaticons-lineal-color-flat-icons.png" 
+         alt="portfolio" width="50" height="50"/>
+  </a>
+
+  <!-- 📧 Gmail -->
+  <a href="mailto:your.email@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+         alt="gmail" width="50" height="50"/>
+  </a>
+
+  <!-- 💼 LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-handle/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         alt="linkedin" width="50" height="50"/>
+  </a>
+
+  <!-- 🐦 Twitter/X -->
+  <a href="https://x.com/yourhandle" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" 
+         alt="twitter" width="50" height="50"/>
+  </a>
+
+  <!-- 🧑‍💻 GitHub -->
+  <a href="https://github.com/ajinamoto" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" 
+         alt="github" width="50" height="50"/>
+  </a>
+
+  <br/>
+  <img src="https://github.com/rudrabarad/Gifs/blob/main/Handshake.gif?raw=true" width="200" alt="handshake animation"/>
+</div>
+
 
 <div align="center">
   <h3>🛠️ Languages and Tools</h3>
